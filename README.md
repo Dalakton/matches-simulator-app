@@ -10,6 +10,15 @@ representam as implementações realizadas durante os seguintes conteúdos/video
 2. Componentes, Layouts e UI/Ux Em Apps Android
    - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/Dalakton/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 
+3. Java e Kotlin Juntos? Construindo Apps Android
+   - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Dalakton/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
+
+
+
+
+
+
+
 
 
 
