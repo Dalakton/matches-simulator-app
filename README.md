@@ -13,8 +13,8 @@ representam as implementações realizadas durante os seguintes conteúdos/video
 3. java e kotlin Juntos!? Construindo Apps Android
    - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Dalakton/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
 
-
-
+4. Release/explorando o firebase para apps android resilientes
+   - [release/explorando-o-firebase-para-apps-android-resiliente](https://github.com/Dalakton/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resiliente)
 
 
 
